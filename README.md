@@ -57,8 +57,8 @@ We've included **[pictures of our attachments](photo/)** so other teams can see 
 
 ### 4. Trifold / Poster & Flyer
 
-- [View our trifold / poster](TRIFOLD_POSTER_URL)
-- [View our flyer](FLYER_URL)
+- [View our trifold / poster (PDF)](https://github.com/0ddone/FLL_2026/releases/download/LakeshoreRegional/FLL.-.Mechanical.Menaces.-.Final.pdf)
+- [Download our microplastics flyer (Word document)](https://github.com/0ddone/FLL_2026/releases/download/LakeshoreRegional/MM.Flyer.-.Microplastics.docx)
 
 ## 💡 Why Are We Sharing Our Work?
 
